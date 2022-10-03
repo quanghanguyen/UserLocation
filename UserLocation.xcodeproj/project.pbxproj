@@ -440,6 +440,8 @@
 				DEVELOPMENT_TEAM = W52H926X8C;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = UserLocation/Info.plist;
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "Apps needs to use your location to serve you better";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Apps needs to use your location to serve you better";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -468,6 +470,8 @@
 				DEVELOPMENT_TEAM = W52H926X8C;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = UserLocation/Info.plist;
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "Apps needs to use your location to serve you better";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Apps needs to use your location to serve you better";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
